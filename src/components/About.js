@@ -60,9 +60,6 @@ function About() {
       <div className=" flex pr-100">
         {/* <img src={require("./4.jpg")} width="1000" heigh="auto"></img> */}
       </div>
-      {/* <br></br>
-      <br></br>
-      <br></br> */}
     </div>
   );
 }
